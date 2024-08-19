@@ -2,7 +2,7 @@
 
 from django.apps import AppConfig
 
-
+test
 class AuthentikAPIConfig(AppConfig):
     """authentik API Config"""
 
